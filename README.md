@@ -1,5 +1,4 @@
 # InterCountryTraffic
-Measurements file 
 
 The user should have 4 codes that MUST be in the same directory as the measurements file named menog-internet-study-master.
 
